@@ -14,7 +14,7 @@
 <body>
 
     <?php
-    echo "<p>Olá Mundo!</p>";
+    echo "<p>Olá Mundo!</p><br>";
     ?>
 
     <!-- Optional JavaScript -->
